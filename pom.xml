@@ -35,6 +35,12 @@
 				<scope>import</scope>
 			</dependency>
 
+			<dependency>
+				<groupId>com.course</groupId>
+				<artifactId>server</artifactId>
+				<version>0.0.1-SNAPSHOT</version>
+			</dependency>
+
 			<!--	继承mybatis链接		-->
 			<dependency>
 				<groupId>org.mybatis.spring.boot</groupId>

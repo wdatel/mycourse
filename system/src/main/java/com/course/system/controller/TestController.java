@@ -1,7 +1,7 @@
 package com.course.system.controller;
 
-import com.course.system.entity.User;
-import com.course.system.service.TestService;
+import com.course.server.entity.User;
+import com.course.server.service.TestService;
 import lombok.AllArgsConstructor;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
