@@ -15,7 +15,7 @@ public class User {
     /**
      * 用户ID
      */
-    private Integer userId;
+    private Integer id;
 
-    private String userName;
+    private String name;
 }
